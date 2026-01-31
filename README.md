@@ -185,9 +185,9 @@ This project is open source and available under the MIT License.
 
 ## 👤 Author
 
-**Ritika Arora**
+**Ritik Arora**
 - GitHub: [@ritikarora995](https://github.com/ritikarora995)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/ritikarora995)
+- LinkedIn: [ritikarora995](https://linkedin.com/in/ritikarora995)
 - Email: ritikarora995@gmail.com
 
 ## 🙏 Acknowledgments
