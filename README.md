@@ -4,7 +4,7 @@
 
 ## 🌟 Overview
 
-AI Research Assistant is a full-stack application that combines the power of Google's Gemini AI with a seamless browser-based interface. Simply highlight any text on a webpage, and get instant AI-powered summaries and related topic suggestions.
+AI ResearchMate is a full-stack application that combines the power of Google's Gemini AI with a seamless browser-based interface. Simply highlight any text on a webpage, and get instant AI-powered summaries and related topic suggestions.
 
 ## ✨ Key Features
 
@@ -40,8 +40,8 @@ AI Research Assistant is a full-stack application that combines the power of Goo
 
 **Step 1: Clone the repository**
 ```bash
-git clone https://github.com/yourusername/ai-research-assistant.git
-cd ai-research-assistant/research-assistant
+git clone https://github.com/yourusername/ai-researchmate.git
+cd ai-researchmate/research-assistant
 ```
 
 **Step 2: Configure API Key**
